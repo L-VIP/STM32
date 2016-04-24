@@ -1,0 +1,4 @@
+main()
+{
+  print"student is good~"
+}
