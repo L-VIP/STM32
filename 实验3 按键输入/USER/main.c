@@ -35,6 +35,7 @@
 					LED0=!LED0;
 					LED1=!LED1;
 					break;
+				  delay_ms(10); 
 			}
 		}else delay_ms(10); 
 	}	 
