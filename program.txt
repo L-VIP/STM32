@@ -1,5 +1,5 @@
 main()
 {
-  print"student is good~"
- print"student is good~"
+  print"student is good~";
+ print"student is good~";
 }
